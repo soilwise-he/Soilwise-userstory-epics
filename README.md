@@ -1,5 +1,6 @@
-# Soilwise-infrastructure
-The Soilwise project aims to develop an open access knowledge and data repository to safeguard soils. This repo is a placeholder to steer the functional requirements of the system.
+# Soilwise userstories
+
+The Soilwise project aims to develop an open access knowledge and data repository to safeguard soils. This repo is a placeholder to steer the functional requirements of the system, using a user story approach.
 
 User stories, listed as [issues](https://github.com/soilwise-he/Soilwise-infrastructure/issues), are clustered in 5 cases and a `prototype` category:
 

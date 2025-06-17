@@ -1,4 +1,4 @@
-# Soilwise Userstory Epics
+# Soilwise Userstory Epics cycle 1
 
 The Soilwise project aims to develop an open access knowledge and data repository to safeguard soils. 
 This repo is a placeholder to steer the functional requirements of the system, using a user story approach.
